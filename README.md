@@ -11,5 +11,8 @@ Personal repo where I save my config files for various things:
   - install `https://ohmyz.sh/#install`
   - install exa: `https://github.com/ogham/exa`
   - install bat:  `https://github.com/sharkdp/bat`
+### **lazyvim**
+  - simply run `install_lazyvim.sh`
+  - NOTE: It works on ubuntu only, but can be used as refference for MacOS
   
   
