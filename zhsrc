@@ -1,0 +1,18 @@
+## Install oh-my-zsh first
+
+
+## Alias 
+alias k="kubectl"
+alias pd="podman"
+
+unalias ls 
+alias ls="exa" # https://github.com/ogham/exa
+unalias cat 
+alias cat="bat" # https://github.com/sharkdp/bat
+
+alias grhhh="git reset --hard HEAD"
+alias grhsh="git reset --soft HEAD" 
+
+# Export 
+
+export EDITOR=vim
