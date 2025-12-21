@@ -5,6 +5,7 @@
 - Make the script more interactive by allowing the user to choose the platform Ubuntu/MacOS
 - Remove log noise
 - Make the UX nice
+- Optimize the scripts with checks
 
 `@config/*`
 
