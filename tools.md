@@ -1,0 +1,10 @@
+List of tools I use:
+- #terminal [kitty](https://sw.kovidgoyal.net/kitt/) 
+- #terminal [oh-my-zsh](https://ohmyz.sh/)
+- #terminal [tmux](https://github.com/tmux/tmux/wiki)
+- #language-manager #python [uv](https://docs.astral.sh/uv/)
+- #language-manager #node [fast-node-manager](https://github.com/Schniz/fnm)
+- #containerization [podman](https://podman.io/)
+- #IDE [lazyvim](https://www.lazyvim.org/)
+- #AI #agents [claude-code](https://claude.com/product/claude-code)
+- #AI #agents [gemini-cli](https://geminicli.com/docs/get-started/deployment/)
